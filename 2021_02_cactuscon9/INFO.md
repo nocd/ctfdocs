@@ -3,9 +3,9 @@ INFO
 
 General
 -------
-Event: CactusCon 9
-Date: February 5, 2021
-Placement: 320/421
+* Event: CactusCon 9
+* Date: February 5, 2021
+* Placement: 320/421
 
 Experience
 ----------
